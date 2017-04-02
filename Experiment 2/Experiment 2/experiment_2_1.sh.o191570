@@ -1,0 +1,14 @@
+## WARNING!
+## The current directory is in your home directory. Please use the high-performance
+## cluster filesystem /nobackup. See documentation for information.
+## WARNING!
+
+## Hosts assigned to job 191570.1:
+##
+## hb01s0b1.marc1.leeds.ac.uk 20 slots
+##
+## Resources granted:
+##
+## h_vmem = 3G (per slot)
+## h_rt   = 2:00:00
+

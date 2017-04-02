@@ -1,0 +1,10 @@
+Loaded model from disk
+
+Accuracy: 87.91%
+Accuracy: 87.91%
+
+Accuracy of crack: 97.51%
+Recall: 97.51%
+
+Accuracy of bg: 78.32%
+ Precision: 81.81%
